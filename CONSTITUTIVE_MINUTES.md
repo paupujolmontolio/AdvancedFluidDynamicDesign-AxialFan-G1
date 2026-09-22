@@ -23,9 +23,9 @@
 This project will tackle the challenge of designing an appropriate, efficient and functional axial fan for the temperature control system of a computer. 
 Examples: Server and data center cooling - GPU / workstation cooling - Telecommunications equipment / router cooling
 Target specifications:
-- Flow rate: 
-- Pressure rise: 
-- Rotational speed: 
+- Flow rate: 0.025 m3/s
+- Pressure rise: 20 Pa
+- Rotational speed: 1500 rpm
 
 ## Team's work regulations:
 All team members will follow the timetable set up by the course coordinator and deliver their assigned tasks to fulfill the requirements on each release.
