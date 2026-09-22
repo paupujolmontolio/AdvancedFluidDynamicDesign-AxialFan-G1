@@ -1,15 +1,15 @@
 # Constitutive Minutes - Team [1]
 
-**Date:**
+**Date:22/09/26**
 
-**Time:**
+**Time:15h**
 
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|  [Martí Buil Llorente]   | Design     |                 |
-|   [Pau Pujol Montolio]   | CFD     |                 |
-|   [Pol Sabaté Vilardell]   | Experimentation     |                 |
+|  Martí Buil Llorente   | Design     |                 |
+|   Pau Pujol Montolio   | CFD     |                 |
+|   Pol Sabaté Vilardell   | Experimentation     |                 |
 
 
 
