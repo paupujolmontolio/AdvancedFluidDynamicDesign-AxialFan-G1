@@ -1,8 +1,8 @@
 # Constitutive Minutes - Team [1]
 
-**Date:22/09/26**
+**Date: 22/09/26**
 
-**Time:15h**
+**Time: 15h**
 
 ## Team Members
 | Name | Role | GitHub username |
