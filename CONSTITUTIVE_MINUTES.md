@@ -7,7 +7,7 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|  Martí Buil Llorente   | Design     |                 |
+|  Martí Buil Llorente   | Design     | Martiisss |
 |   Pau Pujol Montolio   | CFD     |                 |
 |   Pol Sabaté Vilardell   | Experimentation     |                 |
 
