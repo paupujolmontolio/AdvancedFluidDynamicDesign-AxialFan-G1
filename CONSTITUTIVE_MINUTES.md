@@ -28,7 +28,7 @@ Target specifications:
 - Rotational speed: 1500 rpm
 
 ## Team's work regulations:
-All team members will follow the timetable set up by the course coordinator and deliver their assigned tasks to fulfill the requirements on each release.
-Team members will meet each week after thursday’s class to share their progress and discuss further steps.
-This team will be in constant communication via WhatsApp to facilitate collaboration and mutual progress control. 
+- All team members will follow the timetable set up by the course coordinator and deliver their assigned tasks to fulfill the requirements on each release.
+- Team members will meet each week after thursday’s class to share their progress and discuss further steps.
+- This team will be in constant communication via WhatsApp to facilitate collaboration and mutual progress control. 
 
