@@ -9,7 +9,7 @@
 |------|------|-----------------|
 |  Martí Buil Llorente   | Design     | Martiisss |
 |   Pau Pujol Montolio   | CFD     | paupujolmontolio                |
-|   Pol Sabaté Vilardell   | Experimentation     |                 |
+|   Pol Sabaté Vilardell   | Experimentation     | polsabatevilardell-blip |
 
 
 
