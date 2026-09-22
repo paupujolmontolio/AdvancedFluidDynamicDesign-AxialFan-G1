@@ -8,7 +8,7 @@
 | Name | Role | GitHub username |
 |------|------|-----------------|
 |  Martí Buil Llorente   | Design     | Martiisss |
-|   Pau Pujol Montolio   | CFD     |                 |
+|   Pau Pujol Montolio   | CFD     | paupujolmontolio                |
 |   Pol Sabaté Vilardell   | Experimentation     |                 |
 
 
