@@ -1,4 +1,4 @@
-# Constitutive Minutes - Team [Number]
+# Constitutive Minutes - Team [1]
 
 **Date:**
 
