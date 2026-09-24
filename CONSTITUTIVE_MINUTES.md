@@ -15,13 +15,14 @@
 
 ## Project Title
 
-[Design of an axial fan for computer cooling]
+Design of an axial fan for computer cooling
 
 
 ## Brief description
 
 This project will tackle the challenge of designing an appropriate, efficient and functional axial fan for the temperature control system of a computer. 
 Examples: Server and data center cooling - GPU / workstation cooling - Telecommunications equipment / router cooling
+
 Target specifications:
 - Flow rate: 0.025 m3/s
 - Pressure rise: 20 Pa
