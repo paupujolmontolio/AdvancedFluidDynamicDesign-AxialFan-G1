@@ -1,20 +1,18 @@
-# Logbook - Team [Number]
+# Logbook - Team [1]
 
-## YYYY-MM-DD: Name of Meeting (f.i. Kick-off meeting)
+## 2026-09-24: Constitutive minutes  
 
 ### Attendees
--
--
--
+-All
+
 
 ### Notes
+The group has finished the CONSTITUTIVE MINUTES document.
 
 ### Decisions made
-- Decision 1
--  
-### Assigned tasks
+-Initial fan specifications
 
-- [ ] Task 1. Assigned to:
 
 ### Next meeting
+-1/10/26
 
