@@ -23,10 +23,15 @@ Design of an axial fan for computer cooling
 This project will tackle the challenge of designing an appropriate, efficient and functional axial fan for the temperature control system of a computer. 
 Examples: Server and data center cooling - GPU / workstation cooling - Telecommunications equipment / router cooling
 
+Examples: 
+-Phanteks T30-120
+-Noctua NF-A12X25
+-BeQuiet! Silent Wings Pro 4
+
 Target specifications:
-- Flow rate: 0.025 m3/s
-- Pressure rise: 20 Pa
-- Rotational speed: 1500 rpm
+- Flow rate: 0.0476 m3/s
+- Pressure rise: 72.3 Pa
+- Rotational speed: 3000 rpm max (3 operational modes)
 
 ## Team's work regulations:
 - All team members will follow the timetable set up by the course coordinator and deliver their assigned tasks to fulfill the requirements on each release.
