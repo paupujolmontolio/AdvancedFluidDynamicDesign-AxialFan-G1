@@ -2,7 +2,7 @@
 
 **Date: 22/09/26**
 
-**Time: 15h**
+**Time: 15:00h**
 
 ## Team Members
 | Name | Role | GitHub username |
