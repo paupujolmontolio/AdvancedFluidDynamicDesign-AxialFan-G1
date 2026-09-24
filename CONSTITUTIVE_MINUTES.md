@@ -25,7 +25,9 @@ Examples: Server and data center cooling - GPU / workstation cooling - Telecommu
 
 Examples: 
 -Phanteks T30-120
+
 -Noctua NF-A12X25
+
 -BeQuiet! Silent Wings Pro 4
 
 Target specifications:
